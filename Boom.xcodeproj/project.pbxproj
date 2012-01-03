@@ -136,6 +136,7 @@
 		0556B3D1133E10C40026802F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastUpgradeCheck = 0420;
 				ORGANIZATIONNAME = eosgarden;
 			};
 			buildConfigurationList = 0556B3D4133E10C40026802F /* Build configuration list for PBXProject "Boom" */;
