@@ -1,6 +1,8 @@
 Boom
 ====
 
+[![Build Status](https://travis-ci.org/macmade/Boom.svg?branch=master)](https://travis-ci.org/macmade/Boom)
+
 About
 -----
 

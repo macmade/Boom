@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0554BB35194A0CD5004740A5 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 0554BB34194A0CD5004740A5 /* README.md */; };
 		0556B3DF133E10C40026802F /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0556B3DE133E10C40026802F /* Cocoa.framework */; };
 		0556B3E9133E10C40026802F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0556B3E7133E10C40026802F /* InfoPlist.strings */; };
 		0556B3EC133E10C40026802F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0556B3EB133E10C40026802F /* main.m */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0554BB34194A0CD5004740A5 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		0556B3DA133E10C40026802F /* Boom.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Boom.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0556B3DE133E10C40026802F /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		0556B3E1133E10C40026802F /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
@@ -51,6 +53,7 @@
 		0556B3CF133E10C40026802F = {
 			isa = PBXGroup;
 			children = (
+				0554BB34194A0CD5004740A5 /* README.md */,
 				0556B3E4133E10C40026802F /* Boom */,
 				0556B3DD133E10C40026802F /* Frameworks */,
 				0556B3DB133E10C40026802F /* Products */,
@@ -177,6 +180,7 @@
 			files = (
 				0556B3EC133E10C40026802F /* main.m in Sources */,
 				0556B3F2133E10C40026802F /* ApplicationDelegate.m in Sources */,
+				0554BB35194A0CD5004740A5 /* README.md in Sources */,
 				0556B417133E13020026802F /* MainWindowController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
